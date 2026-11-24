@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge",
+  "description": "AI-Powered Food Waste Prediction & Community Donation Platform connecting food donors with NGOs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
